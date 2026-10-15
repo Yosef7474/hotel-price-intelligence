@@ -1,0 +1,11 @@
+# Temporary compatibility pass uses Python 3.14 because 3.12 is unavailable on this machine.
+# Pin versions after installing and verifying this set together.
+pandas
+numpy
+matplotlib
+seaborn
+ipykernel
+pytest
+streamlit
+plotly
+scikit-learn
